@@ -61,7 +61,7 @@ namespace XamarinLayouts
 				HorizontalOptions = LayoutOptions.FillAndExpand,
 				VerticalOptions = LayoutOptions.FillAndExpand,
 				Source = new UrlWebViewSource () {
-					Url = "http://www.xamarin.com"
+					Url = "http://www.google.com"
 				}
 			};
 			Grid.SetRow (webView, 1);
